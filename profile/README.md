@@ -17,4 +17,6 @@ The project is open for all, anyone can contribute.
  - Boards
    - https://trello.com/b/5kVdKkRu/hibat-backend
    - https://trello.com/b/meDFoyZr/hibat-design
+ - API
+   - http://apidocs.architweb.com/?url=hibat-backend/apis.yaml
 
